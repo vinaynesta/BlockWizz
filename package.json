@@ -34,7 +34,7 @@
     "mongoose": "^6.3.3",
     "morgan": "^1.10.0",
     "multer": "^2.0.2",
-    "nodemailer": "^6.7.5",
+    "nodemailer": "^8.0.5",
     "sharp": "^0.30.4",
     "slugify": "^1.6.5",
     "validator": "^13.7.0",
